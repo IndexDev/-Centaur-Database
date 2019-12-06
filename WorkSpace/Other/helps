@@ -1,0 +1,168 @@
+:Modular-wake; Auto-open()'on'
+:*Code-interception:on
+:build-os; exit()'off'
+#Here can help you understand some code structures you don't know.
+#by index!
+
+ >>>Start now (&log)
+ >>>exit (&out)
+@if click Start now:
+ :auto-os; open()'on'
+ :auto-os; exit()'off'
+ *List*
+ '''
+ >>>Helps
+ >>>Help Contents
+ >>>Understand python
+ >>>Other
+
+ '''
+  :Parser; exit()'off'
+
+      :help; section(1)'on'
+
+ '''<<HELPS>>'''
+ "1. How to install python on my computer?"
+ '''Re: Go to www.python.org to download.'''
+
+ "2. How to open the python console?"
+ '''Re: Open cmd or powershell ,enter python.'''
+
+ "3. How to output instructions?"
+ '''Re: Open the editing program. Then run the target py code set.'''
+
+ "4. My python does not execute code normally (or does not open properly)"
+ '''Re: Re-install the python adapted to your system or install an older version lower than 3.0. Make sure your code is correct.'''
+
+ "5. Tab doesn't complement code I don't understand."
+ '''Re: This. . . This may be a problem with your cmd incompatibility with your python. Or use powershell and other programming software...'''
+
+ "6. How to abbreviate code to stay beautiful?"
+ '''Re: You can dump the written code into a '* .py' file and then use 'import' to import the code.'''
+
+ "7. How to close the python console?"
+ '''Re: Very simple, enter the command: exit ()'
+
+ "8. How to check python version?"
+ '''Re: Use the output program or terminal to output the code: 'python --version'.'''
+
+ "9. How to output instructions?"
+ '''Re: Open the editing program. Then run the target py code set.'''
+
+ "MayI. My system environment does not support me using python!!"
+ '''Re: Contact me and let me configure your environment remotely.'''
+
+  "MayII. My Windows-python cannot import third party modules!!"
+ '''Re: Reconfigure python's environment variables. If it is another system, this problem does not exist..'''
+
+  "MayIII. How to uninstall python?"
+ '''Re: If you are running on a Windows operating system, uninstall it directly from Control Panel → Application Management. Other systems go to the python official website to view.'''
+
+      :help; section(1)'off'
+
+        :Help-Contents; section(2)'on'
+
+  '''<<HELP CONTENTS>>'''
+ ""
+
+  <download>;
+  <install>;
+  <check>;
+  <build>;
+  <run>;
+  <crack>;
+  <down>;
+  <python>;
+  <hash>;
+  <python-sdk>;
+  <environ>;
+  <commands>;
+  <Modlue>;
+  <Gavin>;
+  <import>;
+  <print>;
+  <xy>;
+
+ ""
+
+       :Help-Contents; section(2)'off'
+
+   :Help-Contents; section(3)'on'
+
+  '''<<UNDERSTAND PYTHON>>'''
+    %1 who created python ?
+    & The founder of Python is Duido Van Rossum
+
+    %2 When did Python first appear ?
+    & in 1989 "christmas".
+
+    %3 python easy to learn ?
+    & Not exactly. It's simple for those who learn java and Net. Because it is similar to python. People who can't  any language will find it troublesome and difficult.
+
+    %4 python Can it be used to process big data ?
+    & No. Python is only suitable for handling small data links and the web, web crawlers, artificial intelligence, etc.
+
+    %5 Can Python make virus trojans or surveillance programs?
+    & yep.
+
+    %6 Is Python widely used?
+    & Not bad...
+
+    %7 Is Python good for you?
+    & Because I know a lot of languages, So python is not difficult for me. It only takes 1-2 weeks to get familiar with python. People without foundations can take months.
+
+       :Help-Contents; section(3)'off'
+
+    :Help-Contents; section(4)'on'
+
+   '''<<OTHER>'''
+
+     "How was this clever little guy created?"
+     'I'm afraid I can't tell you'
+
+     "How do you handle this code?"
+     'Fill the function through the code of the Linux terminal.'
+
+     "How do you learn python?"
+     'What is the secret of success? 'A = X + Y + Z', 'A means success, X means hard work, Y means correct method, Z means less nonsense'
+
+     "
+Is python easy to use? Is Python suitable for learning? Can python be used for programming? Can I use python to find a job? Can I use python as my main language?"
+     'yes.please %Scat% !'
+
+
+     <END>
+
+     <Go out and lick you mom's vagina>
+
+        :Help-Contents; section(4)'off'
+
+  :web-os; open()'on'
+ :server; open()'on'
+:exit();'on'
+
+_________________________Component shutdown module_________________________
+
+ &Run.exit;
+ &There may be a problem with your outputter.
+
+ &Run.error;
+ &Run.error-exit;
+
+ :build-os; exit()'on'
+ :Parser; exit()'on'
+ :auto-os; exit()'on'
+
+ :*Code-interception:off
+
+ &Run.Helps.Down
+ &Run.AutoHelp.Down
+ &Run.Inside.Power.Down
+
+
+ :Exit; exit()'on'
+
+
+
+
+
